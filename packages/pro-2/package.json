@@ -1,6 +1,6 @@
 {
   "name": "pro-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zhang-glitch <669638556@qq.com>",
   "homepage": "",
@@ -19,6 +19,6 @@
   "dependencies": {
     "axios": "^1.4.0",
     "lodash": "^4.17.21",
-    "pro-1": "^0.0.0"
+    "pro-1": "^0.0.1"
   }
 }
